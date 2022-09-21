@@ -22,9 +22,36 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+## Tela - Login 
+A tela apresentada na figura abaixo permite que o usuário faça login na plataforma.
+<br>
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/01-Login.png)<br>
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+## Tela - Cadastro de Usuário 
+A tela de cadastro permite ao usuário se cadastrar na aplicação caso este ainda não possua uma conta.
+<br>
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/02-Cadrastro.png)<br>
+
+## Tela - Homepage 
+Depois de fazer o login na aplicação, o usuário é redirecionado para uma homepage aonde terá acesso as demais aplicações.
+<br>
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/03-Home.png)<br>
+
+## Tela – Vender  
+A tela de anúncio/vender, permite que o usuário publique o seu item de desapego preenchendo os seguintes campos: fotos do produto, titulo, valor, condição e descrição.   
+<br>
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/04-Vender.png)<br>
+
+## Tela – Sacola  
+A tela de sacola permite que o usuário visualize as suas comprar.
+<br>
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/05-Sacola.png)<br>
+
+## Tela – Perfil
+A tela de perfil permite que o usuário acesse o seu perfil dentro da plataforma.
+<br>
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/06-Perfil.png)<br>
+
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
