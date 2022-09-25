@@ -101,7 +101,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O sistema deve permitir que os usuários façam login, se cadastrem e alterem sua senha. | ALTA | 
+|RF-001| O sistema deve permitir que os usuários se cadastrem, façam login e alterem sua senha. | ALTA | 
 |RF-002| Feed com produtos.  | MÉDIA |
 |RF-003|Geolocalização       | MÉDIA |
 |RF-004|Chat de interação.   | ALTA  |
