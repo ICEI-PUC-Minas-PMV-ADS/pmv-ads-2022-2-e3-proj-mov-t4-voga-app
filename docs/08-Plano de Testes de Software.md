@@ -34,7 +34,7 @@
 |**Passos** | 1) Após efetuar login, clique na barra de pesquisa e digite a palavra chave de interesse. <br>2) Clique em buscar ou aperte enter para prosseguir com sua pesquisa <br>3) Selecionar o item desejado. <br>4) Clique no botão chat. <br>5) Envie uma mensagem sinalizando o interesse e negocie junto ao usuário vendedor.
 |**Critérios de Êxito** | "O usuário irá enviar e receber solicitações de interesse." |
 
-|Caso de Teste |CT-005 – Acesso ao Chat de Interação |
+|Caso de Teste |CT-005 – Realizar pagamento in-app |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** | RF-005 - Realizar pagamento in-app.|
 |**Entrada** | Após localizado o item desejado, clique sobre o item e selecione a opção pagar. |
