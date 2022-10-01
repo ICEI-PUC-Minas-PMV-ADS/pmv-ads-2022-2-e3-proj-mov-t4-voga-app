@@ -101,13 +101,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O sistema deve permitir que os usuários se cadastrem, façam login e alterem sua senha. | ALTA | 
-|RF-002| Feed com produtos.  | MÉDIA |
-|RF-003|Geolocalização       | MÉDIA |
-|RF-004|Chat de interação.   | ALTA  |
-|RF-005|Pagamentos in-app.   | MÉDIA |
+|RF-001|O sistema deve permitir que os usuários se cadastrem, façam login e alterem sua senha. | ALTA | 
+|RF-002|Feed com produtos.   | ALTA |
+|RF-003|Filtro por região.| MÉDIA |
+|RF-004|Canal de interação.  | MÉDIA |
+|RF-005|Pagamentos in-app.   | BAIXA |
 |RF-006|Notificações push.   | BAIXA |
-|RF-007|Interação com pessoas de gostos parecidos próximo a você, em forma de comunidade, para trocar ideias sobre os produtos. | MÉDIA |
 
 ### Requisitos não Funcionais
 
