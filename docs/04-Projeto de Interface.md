@@ -26,6 +26,11 @@ A tela de cadastro permite ao usuário se cadastrar na aplicação caso este ain
 <br>
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/02-Cadrastro.png)<br>
 
+## Fluxo de Telas - Esqueci a Senha 
+Caso o usuário já possua uma conta mas não saiba sua senha, é permitido que ele altere sua senha por meio do fluxo apresentado abaixo.
+<br>
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/Fluxo%20de%20tela%20esqueci%20minha%20senha.png)<br>
+
 ## Tela - Homepage 
 Depois de fazer o login na aplicação, o usuário é redirecionado para uma homepage aonde terá acesso as demais aplicações.
 <br>
