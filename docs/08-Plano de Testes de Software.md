@@ -20,7 +20,7 @@
 
 |Caso de Teste |CT-003 – Correspondência por Geolocalização |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
-|**Requisitos Associados** | RF-003 - Geolocalização.|
+|**Requisitos Associados** | RF-003 - Filtro por região.|
 |**Entrada** | Na página inicial, acessar dados pessoais e preencher os dados de localidade. |
 |**Objetivo do Teste** | Validar a pesquisa por itens anunciados na mesma região. |
 |**Passos** | 1) Após efetuar login, clique em dados pessoais. <br>2) Clique em cidade e estado e insira os dados de sua região.
@@ -28,7 +28,7 @@
 
 |Caso de Teste |CT-004 – Acesso ao Chat de Interação |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
-|**Requisitos Associados** | RF-004 - Chat de interação.|
+|**Requisitos Associados** | RF-004 - Canal de interação para negociação.|
 |**Entrada** | Após localizado o item desejado, clique sobre o item e selecione o botão "Chat". |
 |**Objetivo do Teste** | Validar a interação via chat. |
 |**Passos** | 1) Após efetuar login, clique na barra de pesquisa e digite a palavra chave de interesse. <br>2) Clique em buscar ou aperte enter para prosseguir com sua pesquisa <br>3) Selecionar o item desejado. <br>4) Clique no botão chat. <br>5) Envie uma mensagem sinalizando o interesse e negocie junto ao usuário vendedor.
@@ -49,14 +49,6 @@
 |**Objetivo do Teste** | Validar o acesso às notificações do aplicativo móvel. |
 |**Passos** | 1) Na barra de notificações, clique sobre o pop-up. <br>2) Ao ser direcionado ao App visualize a notificação.
 |**Critérios de Êxito** | "O usuário irá ser direcionado para a notificação de chat." |
-
-|Caso de Teste |CT-007 – Interação de interesses de comunidade |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------|
-|**Requisitos Associados** | RF-007 - Interação com pessoas de gostos parecidos próximo a você, em forma de comunidade, para trocar ideias sobre os produtos.|
-|**Entrada** | Na tela de perfil, acesse o grupo da comunidade através do botão Comunidade Voga. |
-|**Objetivo do Teste** | Validar o acesso à comunidade para interação e troca de ideias sobre produtos. |
-|**Passos** | 1) Após efetuar login, acesse o seu perfil. <br>2) Clique em Comunidade. <br>3) Acesse o tópico de seu interesse específico. <br>4) Clique em inserir uma mensagem.
-|**Critérios de Êxito** | "O usuário visualizaerá informações e enviará mensagens, engajando em assuntos de seu interesse." |
 
  
 ## Ferramentas de Testes (Opcional)
