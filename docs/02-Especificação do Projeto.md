@@ -232,3 +232,9 @@ A execução do presente projeto será realizada por uma equipe de seis profissi
 
 
 ![Orçamento](img/custos.jpg)
+
+
+## Indicadores de Desempenho
+![Indicador](https://user-images.githubusercontent.com/91101776/193601016-b6076e2a-6210-4913-a2fa-c3d8f48525f6.jpg)
+
+
