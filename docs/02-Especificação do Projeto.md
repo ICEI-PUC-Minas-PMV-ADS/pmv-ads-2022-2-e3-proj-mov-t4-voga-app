@@ -235,6 +235,9 @@ A execução do presente projeto será realizada por uma equipe de seis profissi
 
 
 ## Indicadores de Desempenho
+
+Após implementado, o aplicativo será gerenciado por meio de indicadores de desempenho que fornecerão informações acerca de aspectos de produtividade, interesse, efetividade de transações, avaliações pelos usuários entre outras que auxiliaram a equipe desenvolvedora na melhoria de componentes que propiciem um aplicativo mais produtivo que busque alcançar os objetivos dos usuários.
+
 ![Indicador](https://user-images.githubusercontent.com/91101776/193601016-b6076e2a-6210-4913-a2fa-c3d8f48525f6.jpg)
 
 
