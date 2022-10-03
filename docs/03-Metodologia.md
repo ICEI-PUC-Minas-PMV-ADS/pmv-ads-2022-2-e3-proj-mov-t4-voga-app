@@ -78,7 +78,7 @@ AS tarefas são classificadas em função da natureza ou prioridade da atividade
 
 ## Ferramentas
 As ferramentas empregadas no projeto são:
-*	Editor de código: XXXXXX (colocar link de nosso repositório).
+*	Editor de código: Visual Studio Code/ Expo.
 *	Ferramentas de comunicação: Microsoft Teams, Google Meet.
 *	Ferramentas para criação de diagramas: astah, lucidchart, StarUML, Draw.io.
 *	Ferramentas de desenho de tela (wireframing): Figma.
