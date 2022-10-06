@@ -69,6 +69,18 @@ O aplicativo será hospedado na plataforma Heroku.
 
 ## Qualidade de Software
 
+|**Característica **            |**Subcaracterísticas**|**Pergunta chave para subcaracterísticas**|
+|-------------------------------|-----------------------|------------------------------------------|
+|Funcionalidade (satisfaz às necessidades?) |Adequação          |Propõe-se a fazer o que é apropriado? |
+|                                           |Acurácia           | Faz o que foi proposto de forma correta?|
+|                                           |Interoperabilidade | Interage com os sistemas especificados?|
+|                                           |Conformidade       | Está de acordo com as normas, leis e etc.?|
+|                                           |Segurança          | de acesso Evita o acesso não autorizado aos dados?|
+|                                           |Acurácia           | Faz o que foi proposto de forma correta?|
+|-------------------------------|-----------------------|------------------------------------------|
+
+
+
 Conceituar qualidade de fato é uma tarefa complexa, mas ela pode ser vista como um método gerencial que através de procedimentos disseminados por toda a organização, busca garantir um produto final que satisfaça às expectativas dos stakeholders.
 
 No contexto de desenvolvimento de software, qualidade pode ser entendida como um conjunto de características a serem satisfeitas, de modo que o produto de software atenda às necessidades de seus usuários. Entretanto, tal nível de satisfação nem sempre é alcançado de forma espontânea, devendo ser continuamente construído. Assim, a qualidade do produto depende fortemente do seu respectivo processo de desenvolvimento.
