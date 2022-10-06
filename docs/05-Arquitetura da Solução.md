@@ -80,13 +80,13 @@ O aplicativo será hospedado na plataforma Heroku.
 |-------------------------------|-----------------------|------------------------------------------|
 |*Confiabilidade*                           |Maturidade             |Com que freqüência apresenta falhas?|
 |                                           |Tolerância a falhas    |Ocorrendo falhas, como ele reage?|
-|                                           |Recuperabilidade       |É capaz de recuperar dados em caso defalha?|
+|                                           |Recuperabilidade       |É capaz de recuperar dados em caso de falha?|
 |-------------------------------|-----------------------|------------------------------------------|
 |*Usabilidade*                              |Inteligibilidade             |É fácil entender o conceito e a aplicação?|
 |                                           |Apreensibilidade             |É fácil aprender a usar?|
 |                                           |Operacionalidade             |É fácil de operar e controlar?|
 |-------------------------------|-----------------------|------------------------------------------|
-|*Eficiência*                                |Tempo             |Qual é o tempo de resposta, a velocidade deexecução?|
+|*Eficiência*                                |Tempo             |Qual é o tempo de resposta, a velocidade de execução?|
 |                                            |Recursos          |Quanto recurso usa? Durante quanto tempo?|
 |-------------------------------|-----------------------|------------------------------------------|
 |*Manutenibilidade*                         |Analisabilidade          |É fácil de encontrar uma falha, quando ocorre?|
@@ -94,6 +94,10 @@ O aplicativo será hospedado na plataforma Heroku.
 |                                           |Estabilidade             |Há grande risco quando se fazem alterações?|
 |                                           |Testabilidade            |É fácil testar quando se fizer alterações?|
 |-------------------------------|-----------------------|------------------------------------------|
+|*Portabilidade*                         |Adaptabilidade                   |É fácil adaptar a outros ambientes?|
+|                                        |Capacidade para ser instalado    |É fácil instalar em outros ambientes?|
+|                                        |Conformidade                     |Está de acordo com padrões de portabilidade?|
+|                                        |Capacidade para substituir       |É fácil usar para substituir outro?|
 
 
 
