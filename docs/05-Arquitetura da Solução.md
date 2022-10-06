@@ -71,13 +71,32 @@ O aplicativo será hospedado na plataforma Heroku.
 
 |**Característica **            |**Subcaracterísticas**|**Pergunta chave para subcaracterísticas**|
 |-------------------------------|-----------------------|------------------------------------------|
-|Funcionalidade (satisfaz às necessidades?) |Adequação          |Propõe-se a fazer o que é apropriado? |
+|*Funcionalidade*                            |Adequação          |Propõe-se a fazer o que é apropriado? |
 |                                           |Acurácia           | Faz o que foi proposto de forma correta?|
 |                                           |Interoperabilidade | Interage com os sistemas especificados?|
 |                                           |Conformidade       | Está de acordo com as normas, leis e etc.?|
 |                                           |Segurança          | de acesso Evita o acesso não autorizado aos dados?|
 |                                           |Acurácia           | Faz o que foi proposto de forma correta?|
 |-------------------------------|-----------------------|------------------------------------------|
+|*Confiabilidade*                           |Maturidade             |Com que freqüência apresenta falhas?|
+|                                           |Tolerância a falhas    |Ocorrendo falhas, como ele reage?|
+|                                           |Recuperabilidade       |É capaz de recuperar dados em caso defalha?|
+|-------------------------------|-----------------------|------------------------------------------|
+|*Usabilidade*                              |Inteligibilidade             |É fácil entender o conceito e a aplicação?|
+|                                           |Apreensibilidade             |É fácil aprender a usar?|
+|                                           |Operacionalidade             |É fácil de operar e controlar?|
+|-------------------------------|-----------------------|------------------------------------------|
+|*Eficiência*                                |Tempo             |Qual é o tempo de resposta, a velocidade deexecução?|
+|                                            |Recursos          |Quanto recurso usa? Durante quanto tempo?|
+|-------------------------------|-----------------------|------------------------------------------|
+|*Manutenibilidade*                         |Analisabilidade          |É fácil de encontrar uma falha, quando ocorre?|
+|                                           |Modificabilidade         |É fácil modificar e adaptar?|
+|                                           |Estabilidade             |Há grande risco quando se fazem alterações?|
+|                                           |Testabilidade            |É fácil testar quando se fizer alterações?|
+|-------------------------------|-----------------------|------------------------------------------|
+
+
+
 
 
 
