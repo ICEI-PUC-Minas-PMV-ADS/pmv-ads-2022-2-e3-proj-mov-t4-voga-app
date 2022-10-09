@@ -40,7 +40,7 @@
 |**Entrada** | Após localizado o item desejado, clique sobre o item e selecione a opção pagar. |
 |**Objetivo do Teste** | Validar pagamentos através da aplicação. |
 |**Passos** | 1) Após efetuar login, clique na barra de pesquisa e digite a palavra chave de interesse. <br>2) Clique em buscar ou aperte enter para prosseguir com sua pesquisa <br>3) Selecionar o item desejado. <br>4) Clicar em pagar. <br>5) Selecione sua forma de pagamento.
-|**Critérios de Êxito** | "O usuário irá enviar e receber solicitações de interesse." |
+|**Critérios de Êxito** | "O usuário irá ser direcionado para conclusão do pagamento selecionada." |
 
 |Caso de Teste |CT-006 – Visualização de notificações push |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
