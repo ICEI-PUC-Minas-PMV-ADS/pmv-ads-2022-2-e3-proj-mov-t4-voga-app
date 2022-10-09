@@ -48,7 +48,7 @@
 |**Entrada** | Na barra de notificações do disposito móvel clique sobre o pop-up para visualizar a notificação. |
 |**Objetivo do Teste** | Validar o acesso às notificações do aplicativo móvel. |
 |**Passos** | 1) Na barra de notificações, clique sobre o pop-up. <br>2) Ao ser direcionado ao App visualize a notificação.
-|**Critérios de Êxito** | "O usuário será direcionado para a notificação de chat." |
+|**Critérios de Êxito** | "O usuário será direcionado para a notificação recebida." |
 
  
 ## Ferramentas de Testes (Opcional)
