@@ -34,6 +34,10 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER�
 ## Esquema Relacional
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
+
+<p align="center">
+    <img src="img/Arquitetura-Solucao-Esquema-Relacional.jpg">
+</p>
  
 As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Relacional”.
 
