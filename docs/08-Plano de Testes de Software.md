@@ -26,7 +26,7 @@
 |**Passos** | 1) Após efetuar login, clique em dados pessoais. <br>2) Clique em cidade e estado e insira os dados de sua região.
 |**Critérios de Êxito** | "O usuário encontrará itens correspondentes à sua localidade." |
 
-|Caso de Teste |CT-004 – Acesso ao Chat de Interação |
+|Caso de Teste |CT-004 – Canal de Interação |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** | RF-004 - Canal de interação para negociação.|
 |**Entrada** | Após localizado o item desejado, clique sobre o item e selecione o botão "Chat". |
