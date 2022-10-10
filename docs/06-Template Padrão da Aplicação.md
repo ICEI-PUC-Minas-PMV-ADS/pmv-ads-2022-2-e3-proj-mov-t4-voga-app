@@ -33,6 +33,23 @@ Os ícones são um dos nossos principais componentes, na figura abaixo são most
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/ICONES.png)
 
 
+## Aplicação nas telas e fluxos:
+
+### Tela - LandingPage / Login 
+A tela inicial ou LandingPage apresentada na fiura abaixo permite que o usuário faça o login para ter acesso à plataforma e aos serviços oferecidos pelo sistema
+![](....)
+
+### Modal - Login 
+Essa aplicação permite que o usuário faça login, preenchendo suas credenciais conforme orientado. Além disso, o usuário pode ser direcionado para se cadastrar na opção “Cadastre-se” e para redefinir a senha da conta na opção "Esqueceu sua senha?".
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/01-Login.png)
+
+### Fluxo de Telas - Cadastro de Usuário 
+O fluxo de *Cadastro de Usuário* ilustrado na figura abaixo permite ao usuário se cadastrar na aplicação caso este ainda não possua uma conta, seguindo um formulário que solicita informações necessárias de acordo com o tipo de perfil criado.
+![](...)
+
+## Fluxo de Telas - Esqueci a Senha  
+Caso o usuário já possua uma conta mas não saiba sua senha, é permitido que ele altere sua senha por meio do fluxo apresentado na figura abaixo. 
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/Fluxo%20de%20tela%20esqueci%20minha%20senha.png)
 
 
 
