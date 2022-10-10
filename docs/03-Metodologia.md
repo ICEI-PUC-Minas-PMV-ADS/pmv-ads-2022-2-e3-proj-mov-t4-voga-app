@@ -8,32 +8,32 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 |AMBIENTE	|PLATAFORMA	|LINK DE ACESSO|
 |-----|---|---|
-|Repositório de Código |fonte	GitHub	|
-|Documentos de Projeto	|GitHub|	
-|Projeto de interface e wireframes|	Figma	|
+|Repositório de Código |fonte	GitHub	|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app
+|Documentos de Projeto	|GitHub|	https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/tree/main/docs
+|Projeto de interface e wireframes|	Figma	|https://www.figma.com/file/rJoc8rkLaHeIIiyVSI0BJK/VOGA-APP?node-id=0%3A1
 |Gerenciamento do projeto|	GitHub	|
 
 ## Controle de Versão
 A ferramenta de controle de versão adotada no projeto foi o Git, sendo que o Github foi utilizado para hospedagem do repositório.
-Para gestão do código fonte do software desenvolvido, o grupo utiliza um processo baseado no Git Flow, como mostra a XXXXX. Desta forma, todas as manutenções no código são realizadas em branches separados, identificados como Hotfix, Release, Develop e Feature.   
+Para gestão do código fonte do software desenvolvido, o grupo utiliza um processo baseado no Git Flow, como mostra a abaixo. Desta forma, todas as manutenções no código são realizadas em branches separados, identificados como Hotfix, Release, Develop e Feature.   
 Exemplo figura a fazer:
  
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/Imagem%20fluxo%20de%20controle.png)
 
-Figura XXXXX Fluxo de controle do código fonte no repositório git
+A figura acima, mostra o Fluxo de controle do código fonte no repositório git
 
 
 
 O projeto segue a seguinte convenção para o nome de branches:
-*	main: versão estável já testada do software
-*	unstable: versão já testada do software, porém instável
-*	testing: versão em testes do software
-*	dev: versão de desenvolvimento do software Quanto à gerência de issues, o projeto adota a seguinte convenção para etiquetas:
-*	documentation: melhorias ou acréscimos à documentação
-*	bug: uma funcionalidade encontra-se com problemas
-*	melhoria: uma funcionalidade precisa ser melhorada
-*	implementação: uma nova funcionalidade precisa ser introduzida
-*	design: definições de UI e template da aplicação
+*	`main`: versão estável já testada do software
+*	`unstable`: versão já testada do software, porém instável
+*	`testing`: versão em testes do software
+*	`dev`: versão de desenvolvimento do software Quanto à gerência de issues, o projeto adota a seguinte convenção para etiquetas:
+*	`documentation`: melhorias ou acréscimos à documentação
+*	`bug`: uma funcionalidade encontra-se com problemas
+*	`melhoria`: uma funcionalidade precisa ser melhorada
+*	`implementação`: uma nova funcionalidade precisa ser introduzida
+*	`design`: definições de UI e template da aplicação
 
 Links Úteis:
 *	Tutorial GitHub
