@@ -18,7 +18,7 @@
 |**Passos** | 1) Após efetuar login, clique na barra de pesquisa e digite a palavra chave de interesse. <br>2) Clique em buscar ou aperte enter para prosseguir com sua pesquisa <br>3) Selecionar o item desejado.
 |**Critérios de Êxito** | "O usuário será direcionado para o feed de produtos." |
 
-|Caso de Teste |CT-003 – Correspondência por Geolocalização |
+|Caso de Teste |CT-003 – Correspondência por Região |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** | RF-003 - Filtro por região.|
 |**Entrada** | Na página inicial, acessar dados pessoais e preencher os dados de localidade. |
