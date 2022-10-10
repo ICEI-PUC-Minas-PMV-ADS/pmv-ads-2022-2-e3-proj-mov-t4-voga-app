@@ -12,6 +12,11 @@ A paleta de cores definida conta com uma cores primárias, sendo a principal del
 
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/Cores.png)
 
+A escolha das cores não foi por um acaso, mas diz tudo o que queremos passar com a nossa aplicação:
+
+O tom laranja retrata ânimo, atrai consumidores e estimula a criatividade. Tem características muito alegres e estimulantes, acabando por despertar o desejo de ação do usuário. O preto por sua vez é utilizado em tipografias devido à sua neutralidade. Pensando no marketing decidemos unir as duas cores, transmitindo um inovação e elegância.
+
+
 ### Tipografia
 As fontes utilizadas na aplicação são ABeeZee, seguem as seguintes definições:
 <br>
