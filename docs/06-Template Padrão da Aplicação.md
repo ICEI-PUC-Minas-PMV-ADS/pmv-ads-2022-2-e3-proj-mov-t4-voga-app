@@ -30,7 +30,7 @@ Dentre nossos principais componentes personalizados estão os botões e inputs, 
 ### Ícones
 Os ícones são um dos nossos principais componentes, na figura abaixo são mostrados com diferentes aplicações de cores:
 
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/ICONES.png)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/ICONES%20(1).png)
 
 
 ## Aplicação nas telas e fluxos:
