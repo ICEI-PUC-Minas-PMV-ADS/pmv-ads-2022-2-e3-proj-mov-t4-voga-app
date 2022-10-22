@@ -7,7 +7,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo.
 | ID  | Requisito  | Artefato |
 |----|-----------------------------------------|----|
 | RF-001 | A aplicação deve deve permitir que os usuários se cadastrem, façam login e alterem sua senha. | .cshtml | 
-| RF-002 | A aplicação deve possibilitar o acesso ao Feed de produtos. |  |
+| RF-002 | A aplicação deve possibilitar o cadastro de itens e o acesso ao Feed de produtos. |  |
 | RF-003 | A aplicação deve permitir filtrar por região. | |
 | RF-004 | A aplicação deve conter um canal de interação. |  |
 | RF-005 | A aplicação deve prever alguma modalidade de pagamento. |  |
