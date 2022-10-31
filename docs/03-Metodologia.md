@@ -20,7 +20,7 @@ Para gestão do código fonte do software desenvolvido, o grupo utiliza um proce
 
 ![GitFlow](img/Metodologia-gitFlow.png)
 
-Fluxo de controle do código fonte no repositório git
+Fluxo de controle do código fonte no repositório Git
 
 
 
@@ -74,10 +74,10 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 O quadro kanban do grupo no Projects está disponível através da URL https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/206, onde serão acompanhadas todas as tarefas e terá estrutura mediante figura abaixo.
 
  ![Figura 3](img/kanbanprojectovoga.png)
+ Ex. Fluxo de controle do código fonte no repositório Git
 
-Ex. Fluxo de controle do código fonte no repositório git 
 
-AS tarefas são classificadas em função da natureza ou prioridade da atividade e seguem um esquema de etiquetagem entre cores e categorias que pode ser visto pela Figura 3:
+As tarefas são classificadas em função da natureza ou prioridade da atividade e seguem um esquema de etiquetagem entre cores e categorias que pode ser visto pela Figura 3:
 
 ## Ferramentas
 As ferramentas empregadas no projeto são:
