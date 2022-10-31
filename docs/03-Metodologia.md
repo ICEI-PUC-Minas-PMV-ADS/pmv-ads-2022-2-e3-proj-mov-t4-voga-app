@@ -73,7 +73,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
 O quadro kanban do grupo no Projects está disponível através da URL https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/206, onde serão acompanhadas todas as tarefas e terá estrutura mediante figura abaixo.
 
- ![Figura 3](img/KABAN project Voga.png)
+ ![Figura 3](img/kanbanprojectovoga.png)
 
 EX. Fluxo de controle do código fonte no repositório git 
 
