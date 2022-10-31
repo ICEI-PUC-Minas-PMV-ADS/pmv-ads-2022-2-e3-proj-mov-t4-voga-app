@@ -18,7 +18,7 @@ A ferramenta de controle de versão adotada no projeto foi o Git, sendo que o Gi
 Para gestão do código fonte do software desenvolvido, o grupo utiliza um processo baseado no Git Flow, como mostra a abaixo. Desta forma, todas as manutenções no código são realizadas em branches separados, identificados como Hotfix, Release, Develop e Feature.   
 Exemplo figura a fazer:
  
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/Imagem%20fluxo%20de%20controle.png)
+![Quadro KANBAN](img/KABAN project Voga.png) 
 
 A figura acima, mostra o Fluxo de controle do código fonte no repositório git
 
@@ -73,7 +73,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
 O quadro kanban do grupo no Projects está disponível através da URL https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/206, onde serão acompanhadas todas as tarefas e terá estrutura mediante figura abaixo.
 
-[](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/KABAN%20project%20Voga.png)
+ ![Figura 3](img/KABAN project Voga.png)
 
 EX. Fluxo de controle do código fonte no repositório git 
 
