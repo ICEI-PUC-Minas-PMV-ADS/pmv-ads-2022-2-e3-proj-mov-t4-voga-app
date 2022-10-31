@@ -70,9 +70,12 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 *	In progress: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
 *	Test/Revision: Checagem de Qualidade.
 *	Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão concluídas para entrega ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
-O quadro kanban do grupo no Projects está disponível através da URL XXXXXXXXXXXXXXXXXXXXX, onde serão acompanhadas todas as tarefas e terá estrutura mediante figura abaixo.
 
-EX. figura demonstrativa 
+O quadro kanban do grupo no Projects está disponível através da URL https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/206, onde serão acompanhadas todas as tarefas e terá estrutura mediante figura abaixo.
+
+
+
+EX. Fluxo de controle do código fonte no repositório git 
 
 AS tarefas são classificadas em função da natureza ou prioridade da atividade e seguem um esquema de etiquetagem entre cores e categorias que pode ser visto pela Figura 3:
 
