@@ -11,7 +11,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |Repositório de Código |fonte	GitHub	|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app
 |Documentos de Projeto	|GitHub|	https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/tree/main/docs
 |Projeto de interface e wireframes|	Figma	|https://www.figma.com/file/rJoc8rkLaHeIIiyVSI0BJK/VOGA-APP?node-id=0%3A1
-|Gerenciamento do projeto|	GitHub	|
+|Gerenciamento do projeto|	GitHub	|https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/206
 
 ## Controle de Versão
 A ferramenta de controle de versão adotada no projeto foi o Git, sendo que o Github foi utilizado para hospedagem do repositório.
@@ -75,7 +75,7 @@ O quadro kanban do grupo no Projects está disponível através da URL https://g
 
  ![Figura 3](img/kanbanprojectovoga.png)
 
-EX. Fluxo de controle do código fonte no repositório git 
+Ex. Fluxo de controle do código fonte no repositório git 
 
 AS tarefas são classificadas em função da natureza ou prioridade da atividade e seguem um esquema de etiquetagem entre cores e categorias que pode ser visto pela Figura 3:
 
