@@ -21,35 +21,35 @@ Realizados os testes, será feita análise quantitativa dos aspectos negativos o
 
 | `Caso de teste ` | ` CTU-001 Login do usuário ` | ` Dificuldade  ` | `  Grau Satisfação geral  ` |` Análise `|
 |:---:|:---:|:---:|:---:|:---:|
-| Objetivo do teste | Validar acesso do usuário à plataforma através do login      |      |                   |              |
-| Critérios de Êxito | O usuário será direcionado à homepage e terá acesso ao Menu pessoal|
+| Objetivo do teste | Validar acesso do usuário à plataforma através do login      |   Não há   |        Total            |      Fácil usabilidade, sem erros, compreensão geral.        |
+| Critérios de Êxito | O usuário será direcionado à tela inicial do app e terá acesso ao Menu pessoal|
 
 | `Caso de teste ` | ` CTU-002 Acesso ao Feed de produtos `         | ` Dificuldade  ` | `  Grau Satisfação geral  ` |` Análise `|
 |:---:|:---:|:---:|:---:|:---:|
-| Objetivo do teste | Validar a pesquisa de itens na aplicação  |   |  |   |
+| Objetivo do teste | Validar a pesquisa de itens na aplicação  |  Não está totalmente implementado | Parcial |  Não ficou totalmente responsivo  |
 | Critérios de Êxito | O usuário será direcionado ao feed de produtos |
 
 
 | `Caso de teste ` | ` CTU-003 Correspondência por Geolocalização `               | ` Dificuldade  ` | `  Grau Satisfação geral  ` |` Análise `|
 |:---:|:---:|:---:|:---:|:---:|
-| Objetivo do teste            | Validar a pesquisa por itens anunciados na mesma região  |  |  |  |
+| Objetivo do teste            | Validar a pesquisa por itens anunciados na mesma região  | N/A | N/A | N/A |
 | Critérios de Êxito           | 	O usuário encontrará itens correspondentes à sua localidade|
 
 
 | `Caso de teste ` | ` CTU-004 Acesso ao Chat de Interação  `        | ` Dificuldade  ` | `  Grau Satisfação geral  ` |` Análise `|
 |:---:|:---:|:---:|:---:|:---:|
-| Objetivo do teste            |Validar a interação via chat  |   |   |    |
+| Objetivo do teste            |Validar a interação via chat  | N/A  | N/A  |  N/A  |
 | Critérios de Êxito           | O usuário irá enviar e receber solicitações de interesse|
 
 
 | `Caso de teste ` | ` CTU-005 Realizar pagamento in-app `            | ` Dificuldade  ` | `  Grau Satisfação geral  ` |` Análise `|
 |:---:|:---:|:---:|:---:|:---:|
-| Objetivo do teste            | Realizar pagamento in-app|   |  |    |
+| Objetivo do teste            | Realizar pagamento in-app| N/A  | N/A | N/A   |
 | Critérios de Êxito           | O usuário irá ser direcionado para conclusão do pagamento|
 
 | `Caso de teste ` | ` CTU-006 Visualização de notificações push `            | ` Dificuldade  ` | `  Grau Satisfação geral  ` |` Análise `|
 |:---:|:---:|:---:|:---:|:---:|
-| Objetivo do teste            | Validar o acesso às notificações do aplicativo móvel |   |   |   |
+| Objetivo do teste            | Validar o acesso às notificações do aplicativo móvel | N/A  |  N/A | N/A  |
 | Critérios de Êxito           | O usuário será direcionado para a notificação recebida|
 
 > **Links Úteis**:
