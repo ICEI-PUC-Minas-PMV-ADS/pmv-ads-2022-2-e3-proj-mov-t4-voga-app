@@ -45,7 +45,7 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 
 | **Usuário** 	| **Idade** 	| **Esolaridade** | **Profissão** |   
 | :---: | :---:	| :---: | :---: |
-| Usuário 1	|  	|  |  | 
+| Usuário 1	| Técnico 	|  |  | 
 | Usuário 2 |  	|  |   | 
 | Usuário 3	| 	|  |   |
 
