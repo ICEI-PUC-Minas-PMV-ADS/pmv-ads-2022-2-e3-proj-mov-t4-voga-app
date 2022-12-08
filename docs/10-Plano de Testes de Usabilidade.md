@@ -56,6 +56,7 @@ Realizados os testes, será feita análise quantitativa dos aspectos negativos o
 Não foram conclusas todas as funcionalidades esperadas, sendo necessária em futuras versões, implementações de grande impacto.
 Nosso objetivo é poder dar continuidade ao trabalho e concluir grande parte das funcionalidades, apesar de termos ciência que algumas podem ser retiradas devido ao grau de dificuldade.
 
+OBS: O projects não esta vinculado ao nosso repositorio segue o link: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/206
 
 > **Links Úteis**:
 > - [Teste De Usabilidade: O Que É e Como Fazer Passo a Passo (neilpatel.com)](https://neilpatel.com/br/blog/teste-de-usabilidade/)
