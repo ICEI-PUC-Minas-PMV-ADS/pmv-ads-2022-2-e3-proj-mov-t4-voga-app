@@ -7,13 +7,13 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 
 ## CT-01 - Login do usuário
-Vídeo
+Vídeo: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/Login.mp4
 
-## CT-02 - Acesso ao Feed de Produtos 
-Vídeo
+## CT-02 - Cadrastro
+Vídeo: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/Cadastro.mp4
 
-## CT-03 - Correspondência por região
-Vídeo
+## CT-03 - Redefinir Senha
+Vídeo: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t4-voga-app/blob/main/docs/img/Redefinir%20Senha.mp4
 
 ## Avaliação
 
