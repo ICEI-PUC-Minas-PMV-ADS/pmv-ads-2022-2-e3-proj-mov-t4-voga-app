@@ -4,16 +4,16 @@
 
 |Caso de Teste |CT-001 – Login do usuário |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
-|**Requisitos Associados** | RF-001 - A aplicação deve permitir que os usuários se cadastrem, façam login e alterem sua senha.|
-|**Entrada** | Na página inicial, digitar o e-mail de cadastro e senha nos respectivos campos e clicar em Login. |
-|**Objetivo do Teste** | Validar acesso do usuário à plataforma através do login. |
-|**Passos** | 1) Acessar o Navegador. <br>2) Informar endereço: XXXXXXXXXXXX. <br>3) Preencher os campos e-mail e senha.<br>4) Clicar no botão Login. |
+|**Requisitos Associados** | RF-001 - A aplicação mobile deve permitir que os usuários baixem o app, se cadastrem, façam login e alterem sua senha.|
+|**Entrada** | Na tela principal, digitar o e-mail de cadastro e senha nos respectivos campos e clicar em Login. |
+|**Objetivo do Teste** | Validar acesso do usuário ao app através do login. |
+|**Passos** | 1) Baixar e acessar o aplicativo <br>2) Informar pessoais de cadastro <br>3) Logar, preenchendo os campos e-mail e senha.<br>4) Clicar no botão Login. |
 |**Critérios de Êxito** | "O usuário será direcionado à homepage e terá acesso ao Menu pessoal." |
 
 |Caso de Teste |CT-002 – Acesso ao Feed de Produtos |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** | RF-002 - Acesso ao Feed com produtos.|
-|**Entrada** | Na página inicial, acessar a barra de pesquisa localizada centro superior da tela. |
+|**Entrada** | Na página inicial do app, acessar a barra de pesquisa localizada centro superior da tela. |
 |**Objetivo do Teste** | Validar a pesquisa de itens na aplicação. |
 |**Passos** | 1) Após efetuar login, clique na barra de pesquisa e digite a palavra chave de interesse. <br>2) Clique em buscar ou aperte enter para prosseguir com sua pesquisa <br>3) Selecionar o item desejado.
 |**Critérios de Êxito** | "O usuário será direcionado para o feed de produtos." |
@@ -21,7 +21,7 @@
 |Caso de Teste |CT-003 – Correspondência por Região |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** | RF-003 - Filtro por região.|
-|**Entrada** | Na página inicial, acessar dados pessoais e preencher os dados de localidade. |
+|**Entrada** | Na página inicial do app, acessar dados pessoais e preencher os dados de localidade. |
 |**Objetivo do Teste** | Validar a pesquisa por itens anunciados na mesma região. |
 |**Passos** | 1) Após efetuar login, clique em dados pessoais. <br>2) Clique em cidade e estado e insira os dados de sua região.
 |**Critérios de Êxito** | "O usuário encontrará itens correspondentes à sua localidade." |
@@ -31,14 +31,14 @@
 |**Requisitos Associados** | RF-004 - Canal de interação para negociação.|
 |**Entrada** | Após localizado o item desejado, clique sobre o item e selecione o botão "Chat". |
 |**Objetivo do Teste** | Validar a interação via chat. |
-|**Passos** | 1) Após efetuar login, clique na barra de pesquisa e digite a palavra chave de interesse. <br>2) Clique em buscar ou aperte enter para prosseguir com sua pesquisa <br>3) Selecionar o item desejado. <br>4) Clique no botão chat. <br>5) Envie uma mensagem sinalizando o interesse e negocie junto ao usuário vendedor.
+|**Passos** | 1) Após efetuar login no app, clique na barra de pesquisa e digite a palavra chave de interesse. <br>2) Clique em buscar ou aperte enter para prosseguir com sua pesquisa <br>3) Selecionar o item desejado. <br>4) Clique no botão chat. <br>5) Envie uma mensagem sinalizando o interesse e negocie junto ao usuário vendedor.
 |**Critérios de Êxito** | "O usuário irá enviar e receber solicitações de interesse." |
 
 |Caso de Teste |CT-005 – Realizar pagamento in-app |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** | RF-005 - Realizar pagamento in-app.|
 |**Entrada** | Após localizado o item desejado, clique sobre o item e selecione a opção pagar. |
-|**Objetivo do Teste** | Validar pagamentos através da aplicação. |
+|**Objetivo do Teste** | Validar pagamentos através da aplicação mobile. |
 |**Passos** | 1) Após efetuar login, clique na barra de pesquisa e digite a palavra chave de interesse. <br>2) Clique em buscar ou aperte enter para prosseguir com sua pesquisa <br>3) Selecionar o item desejado. <br>4) Clicar em pagar. <br>5) Selecione sua forma de pagamento.
 |**Critérios de Êxito** | "O usuário irá ser direcionado para conclusão do pagamento." |
 
@@ -53,7 +53,8 @@
  
 ## Ferramentas de Testes (Opcional)
 
-Comente sobre as ferramentas de testes utilizadas.
+Para registro dos testes acima utilizamos a ferramenta nativa do Windows, intitulada "Xbox Game Bar", acessada através do comando das teclas **`windows`** + **`G`**. Com esta ferramenta, otimizou o processo para registro capturando um vídeo de cada Caso de Teste que foi totalmente implementado até o momento dos testes, demonstrando assim o passo a passo de cada teste acima.
+
  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
