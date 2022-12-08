@@ -21,9 +21,9 @@ Como demonstra o resultado do teste acima, ...
 
 | Requisitos          |              Descrição             |Comentarios/Consideraçãoes|Status                                  |
 |---------------------|------------------------------------|--------------------------|----------------------------------------|
-|CT-01 - Login do usuário|Permite ao usuário, cadastrar, fazer login e editar  |  |              |
-|CT-02 - Acesso ao Feed de Produtos | Permite que o usuario acesse um feed de produtos.| | |
-|CT-03 - Correspondência por região| Permite ao usuario alterar a região de interesse com base no seu cadastro| | |
+|CT-01 - Login do usuário|Permite ao usuário, cadastrar, fazer login e editar  |  |           Funcionando   |
+|CT-02 - Cadastrar no sistema | Permite que o usuario se cadastre.| |Funcionando |
+|CT-03 - Redefinir senha| Permite ao usuario alterar a senha| |Funcionando |
 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
