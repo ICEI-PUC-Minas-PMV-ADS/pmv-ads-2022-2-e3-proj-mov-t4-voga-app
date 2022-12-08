@@ -15,15 +15,6 @@ Vídeo
 ## CT-03 - Correspondência por região
 Vídeo
 
-## CT-04 - Canal de Interação
-Vídeo
-
-## CT-05 - Realizar pagamento in-app
-Vídeo
-
-## CT-06 - Visualização de notificações push
-Vídeo
-
 ## Avaliação
 
 Como demonstra o resultado do teste acima, ...
