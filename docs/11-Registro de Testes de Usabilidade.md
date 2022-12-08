@@ -45,9 +45,9 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 
 | **Usuário** 	| **Idade** 	| **Esolaridade** | **Profissão** |   
 | :---: | :---:	| :---: | :---: |
-| Usuário 1	| Técnico 	|  |  | 
-| Usuário 2 |  	|  |   | 
-| Usuário 3	| 	|  |   |
+| Usuário 1	| 46 	| Ensino médio | Costureira | 
+| Usuário 2 | 23 	| Graduando |  Estudante | 
+| Usuário 3	| 34	| Ensino médio | Profissional de moda  |
 
 # Conclusão </hr>
 
